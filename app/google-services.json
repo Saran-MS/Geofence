@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724339113454",
+    "project_id": "geofence-bc45e",
+    "storage_bucket": "geofence-bc45e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724339113454:android:46d17a11d5900bd9e8a2ff",
+        "android_client_info": {
+          "package_name": "com.example.geofence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724339113454-jlkabfdbt33mhr59laja5up5t6u8t7h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQXaXm4Mn2ItRTCtiwMxwgO0nZrohWJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724339113454-jlkabfdbt33mhr59laja5up5t6u8t7h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/topAppBar"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:padding="6dp"
+            app:title="GEO-Fisherman"
+            app:menu="@menu/top_app_bar"
+            app:navigationIcon="@drawable/ic_menu__1"
+            android:backgroundTint="@null"
+            style="@style/Widget.MaterialComponents.Toolbar.Primary"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+</RelativeLayout>
